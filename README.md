@@ -1,2 +1,2 @@
-# basic_c-
+# basic_c++
 C++ programming activities at college.
